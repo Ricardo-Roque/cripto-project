@@ -1,13 +1,13 @@
-package org.example.criptoproject;
+package org.example.cryptoproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CriptoProjectApplication {
+public class CryptoProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CriptoProjectApplication.class, args);
+        SpringApplication.run(CryptoProjectApplication.class, args);
     }
 
 }

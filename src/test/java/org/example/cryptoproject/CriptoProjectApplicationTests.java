@@ -1,4 +1,4 @@
-package org.example.criptoproject;
+package org.example.cryptoproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
